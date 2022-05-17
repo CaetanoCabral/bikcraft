@@ -6,3 +6,7 @@
 @import "./home/introducao.css";
 
 @import "./utilidades/tipografia.css";
+
+@import "./bicicletas/bicicletas-lista.css";
+
+@import "./home/tecnologia.css";
