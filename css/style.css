@@ -6,7 +6,9 @@
 
 @import "./utilidades/tipografia.css";
 
+/* Biciletas */
 @import "./bicicletas/bicicletas-lista.css";
+@import "./bicicletas/bicicletas.css";
 
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
@@ -14,3 +16,7 @@
 @import "./home/depoimento.css";
 
 @import "./seguros/seguros.css";
+
+@import "./termos/termos.css";
+
+@import "./bicicleta/bicicleta.css";
