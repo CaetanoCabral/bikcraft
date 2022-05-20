@@ -26,3 +26,7 @@
 @import "./termos/termos.css";
 
 @import "./bicicleta/bicicleta.css";
+
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
+@import "./utilidades/formulario.css";
