@@ -5,6 +5,7 @@
 @import "./global/footer.css";
 
 @import "./utilidades/tipografia.css";
+@import "./utilidades/animacao.css";
 
 /* Biciletas */
 @import "./bicicletas/bicicletas-lista.css";
